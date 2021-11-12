@@ -1,4 +1,4 @@
-1. [Curriculum Vitae](/CV.md)
+1. [Curriculum Vitae](/cv.md)
 
 2. [Pro's and Cons of tools documentation](/Pro's_and_cons_of_tools_documentation.md)
     
