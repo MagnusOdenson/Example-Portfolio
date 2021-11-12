@@ -1,4 +1,4 @@
-[CV](/cv.md)
+[CV](/CV.md)
 
 [Pro's and Cons of tools documentation](/Pro's_and_cons_of_tools_documentation.md)
     
