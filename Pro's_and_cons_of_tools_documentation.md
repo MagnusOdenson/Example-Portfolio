@@ -1,26 +1,36 @@
 # Pro's and cons of tools documentation <!-- omit in toc -->
 
-- [Confluence](#confluence)
+- [Confluence & Jira](#confluence--jira)
   - [Pro's](#pros)
   - [Cons](#cons)
-- [Jira](#jira)
-  - [Pro's](#pros-1)
-  - [Cons](#cons-1)
 - [MadCap Flare](#madcap-flare)
-  - [Pro's:](#pros-2)
-  - [Cons](#cons-2)
+  - [Pro's:](#pros-1)
+  - [Cons](#cons-1)
 
-## Confluence
+## Confluence & Jira
+
+Jira's and Confluence documentation is similarly structured due to the fact that it comes from the same company, so it would follow that their documentation follows similiar styleguide. Therefore I decided to review their documentation together.
 
 ### Pro's
+Confluence documentation, similar to Madcap's is very well structured. Multiple topics, clearly divided into subcategories that allow to swiftly find whatever is needed at a glance.
+
+![documentation_tree]<!-- here goes image-->
+
+Moreover if well structure was not enough, there is a searchbar for a situation when you are searching for specific topic. That looks like a great advantage and a great addition.
+
+![searchbar]<!-- here goes image of search bar-->
+
+Inside articles on right side you can find links to other articles in the same group.
+
+![navigation]<!-- navigation image>
+
+Quickstart in tool itself is a great additon and nice way of keeping documentation/tutorial handy for users while using the tool itself instead of forcing them onto another screen.
+
+![quickstart]<!-- quickstart image>
 
 ### Cons
 
-## Jira
 
-### Pro's
-
-### Cons
 
 ## MadCap Flare
 
