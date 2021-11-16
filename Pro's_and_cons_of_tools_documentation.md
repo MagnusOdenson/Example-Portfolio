@@ -18,7 +18,7 @@ Confluence documentation, similar to Madcap's is very well structured. Multiple 
 
 Moreover if well structure was not enough, there is a searchbar for a situation when you are searching for specific topic. That looks like a great advantage and a great addition.
 
-![searchbar]<!-- here goes image of search bar-->
+![searchbar](/Confluence&Jira/searchbar.png)
 
 Inside articles on right side you can find links to other articles in the same group.
 
