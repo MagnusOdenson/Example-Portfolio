@@ -43,7 +43,7 @@ They use interactive table of contents that is visible all the time while browsi
 
 On tutorial topic documentation provides time approximation of how much time it may take to go through it.
 
-<img src="./MadCap_Flare/iamge_and_clarity.png" width="1476" height="376" />
+<img src="./MadCap_Flare/images_and_clarity.png" width="1476" height="376" />
 
 Task topics use ordered lists to provide clear and concise information.
 They also use images to make it easier to figure out the software, you can follow the writing as well as check images for reference.
