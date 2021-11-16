@@ -14,15 +14,15 @@ Jira's and Confluence documentation is similarly structured due to the fact that
 ### Pro's
 Confluence documentation, similar to Madcap's is very well structured. Multiple topics, clearly divided into subcategories that allow to swiftly find whatever is needed at a glance.
 
-![documentation_tree]<!-- here goes image-->
+<img src="./confluence&jira/comprehensive.png" width="835" height="913" />
 
 Moreover if well structure was not enough, there is a searchbar for a situation when you are searching for specific topic. That looks like a great advantage and a great addition.
 
-![searchbar](./Confluence&Jira/searchbar.png)
+<img src="./confluence&jira/searchbar.png" width="742" height="158" />
 
 Inside articles on right side you can find links to other articles in the same group.
 
-![navigation]<!-- navigation image>
+<img src="./confluence&jira/sidebar.png" width="287" height="393" />
 
 Quickstart in tool itself is a great additon and nice way of keeping documentation/tutorial handy for users while using the tool itself instead of forcing them onto another screen.
 
@@ -39,16 +39,16 @@ Quickstart in tool itself is a great additon and nice way of keeping documentati
 Madcap's documentation is very clearly structured. 
 They use interactive table of contents that is visible all the time while browsing, moreover it expands the bigger topics and divides them into smaller chunks, that are hiperlinked. This provided quick and easy access to necessary information that one might be looking for. There is no need to read all of it if you are looking only for one specific piece of information.
 
-![table of contents](<!-- here goes the link to the image>)
+<img src="./MadCap_Flare/Table_of_Contents.png" width="362" height="717" />
 
 On tutorial topic documentation provides time approximation of how much time it may take to go through it.
 
-![approximation](<!-- here goes the link to the image>)
+<img src="./MadCap_Flare/iamge_and_clarity.png" width="1476" height="376" />
 
 Task topics use ordered lists to provide clear and concise information.
 They also use images to make it easier to figure out the software, you can follow the writing as well as check images for reference.
 
-![images](<!-- here goes the link to image>)
+<img src="./MadCap_Flare/Table_of_Contents.png" width="1490" height="772" />
 
 ### Cons
 
