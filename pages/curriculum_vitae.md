@@ -27,8 +27,8 @@ fast-paced environment and successfully handling several responsibilities simult
 ## Skills  
 
 ### Technical Proficiency
-* Office suite - \*****
-* Google Drive - \*****
+* Office suite - *****
+* Google Drive - *****
 * DITA XML - working knowledge
 * SDL Tridion Docs - working knowledge
 * Visual Studio Code - working knowledge
@@ -36,9 +36,9 @@ fast-paced environment and successfully handling several responsibilities simult
 * GitHub - working knowledge 
 
 ### Soft Skills  
-* Attention to details \*****
-* Work under pressure \*****
-* Time Management \*****  
+* Attention to details - *****
+* Work under pressure - *****
+* Time Management - *****  
 
 <div style="page-break-after: always;"></div>  
 
@@ -107,7 +107,7 @@ Two months-long internship during which I:
 **Vistula University**  
 **Technical Communication**    
 `10/2021-Present`  
-Postgraduate's Degree
+Post graduate's Degree
 
 **Jagiellonian University**  
 **Public Administration**    
