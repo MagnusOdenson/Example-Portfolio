@@ -10,8 +10,6 @@
 
 ## MadCap Flare
 
----
-
 ### Pro's:
 
 Madcap's documentation is very clearly structured. 
@@ -36,8 +34,6 @@ Multiple levels of trees in table of contents can be daunting for new users.
 <img src="../madcap_flare/multiple_levels.png" width="334" height="497" />
 
 ## Confluence & Jira
-
----
 
 Jira's and Confluence documentation is similarly structured due to the fact that it comes from the same company, so it would follow that their documentation is created in similiar style. Therefore I decided to review their documentation together.
 
