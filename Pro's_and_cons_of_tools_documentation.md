@@ -39,16 +39,16 @@ Quickstart in tool itself is a great additon and nice way of keeping documentati
 Madcap's documentation is very clearly structured. 
 They use interactive table of contents that is visible all the time while browsing, moreover it expands the bigger topics and divides them into smaller chunks, that are hiperlinked. This provided quick and easy access to necessary information that one might be looking for. There is no need to read all of it if you are looking only for one specific piece of information.
 
-<img src="./madcap_flare/Table_of_Contents.png" width="362" height="358" />
+<img src="./madcap_flare/Table_of_Contents.png" width="181" height="358" />
 
 On tutorial topic documentation provides time approximation of how much time it may take to go through it.
 
-<img src="./madcap_flare/images_and_clarity.png" width="1476" height="376" />
+<img src="./madcap_flare/images_and_clarity.png" width="738" height="376" />
 
 Task topics use ordered lists to provide clear and concise information.
 They also use images to make it easier to figure out the software, you can follow the writing as well as check images for reference.
 
-<img src="./madcap_flare/Table_of_Contents.png" width="745" height="386" />
+<img src="./madcap_flare/Table_of_Contents.png" width="372" height="386" />
 
 ### Cons
 
