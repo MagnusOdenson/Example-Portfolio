@@ -17,9 +17,9 @@ michal.j.olender@gmail.com
 
 ## Profile
 
-* An organized professional with strong customer service, HR experience and technical writing
+* An organized professional with strong customer service, HR and technical writing
 experience
-* Skilled in streamlining, answering inquiries, and solving problems. 
+* Skilled in streamlining, answering inquiries and solving problems. 
 * Accustomed to working in a
 fast-paced environment and successfully handling several responsibilities simultaneously.
 * Completes projects quickly and efficiently.  
