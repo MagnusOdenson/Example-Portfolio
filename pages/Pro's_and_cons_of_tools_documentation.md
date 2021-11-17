@@ -1,14 +1,15 @@
 # Pro's and cons of tools documentation <!-- omit in toc -->
 
-- [## MadCap Flare](#-madcap-flare)
+- [MadCap Flare](#madcap-flare)
   - [Pro's:](#pros)
   - [Cons](#cons)
-- [## Confluence & Jira](#-confluence--jira)
+- [Confluence & Jira](#confluence--jira)
   - [Pro's](#pros-1)
   - [Cons](#cons-1)
 
 
 ## MadCap Flare
+
 ---
 
 ### Pro's:
@@ -35,8 +36,8 @@ Multiple levels of trees in table of contents can be daunting for new users.
 <img src="../madcap_flare/multiple_levels.png" width="334" height="497" />
 
 ## Confluence & Jira
----
 
+---
 
 Jira's and Confluence documentation is similarly structured due to the fact that it comes from the same company, so it would follow that their documentation is created in similiar style. Therefore I decided to review their documentation together.
 
